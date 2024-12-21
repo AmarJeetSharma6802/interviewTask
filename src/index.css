@@ -502,7 +502,7 @@ margin-right: 5px;
     display: none;
   }
   .box2{
-    width: 100%;
+    width: 100vh;
   }
   .box3{
     position: absolute;
@@ -628,6 +628,11 @@ padding: 2px;
 .mid-bottomResponse {
   width: 80%;
 }
+}
+@media (min-width:320px) and (max-width:400px) {
+  .chat-input {
+    width: 85%;
+  }
 }
 
 
