@@ -607,6 +607,9 @@ padding: 2px;
 .response-detcted-text{
   display: none;
 }
+.mid-bottomResponse{
+  width: 80%;
+}
 }
 @media (min-width:500px) and (max-width:620px) {
   #boxDown-img,.box2-check,.hide-img,.threeDot{
