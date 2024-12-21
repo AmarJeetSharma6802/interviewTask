@@ -535,7 +535,7 @@ opacity: 0;
   }
   .chat-input{
     position: fixed;
-    bottom: 15px;
+    bottom: 10px;
     background: rgb(237, 242, 248);
     width: 95%;
   }
@@ -631,7 +631,7 @@ padding: 2px;
 }
 @media (min-width:320px) and (max-width:400px) {
   .chat-input {
-    width: 85%;
+    width: 88%;
   }
 }
 
