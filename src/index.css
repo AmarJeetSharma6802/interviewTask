@@ -610,6 +610,9 @@ padding: 2px;
 .mid-bottomResponse{
   width: 80%;
 }
+.chat-input {
+  width: 90%;
+}
 }
 @media (min-width:500px) and (max-width:620px) {
   #boxDown-img,.box2-check,.hide-img,.threeDot{
